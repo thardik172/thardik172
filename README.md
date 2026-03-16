@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: Just a learner...
 Full Stack Development
 
 
